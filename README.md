@@ -13,7 +13,9 @@ npm install polybar-lastfm --save
 ```
 ## Example of Config in Polybar
 
-See in my dotfiles: [github.com/TiagoDanin/dotfiles/commit/9bb2a9fce187234bc61da464619ab0cb22555fb6](https://github.com/TiagoDanin/dotfiles/commit/9bb2a9fce187234bc61da464619ab0cb22555fb6)
+See in my dotfiles: [github.com/TiagoDanin/dotfiles/commit/9bb2a9fce187234bc61da464619ab0cb22555fb6](https://github.com/TiagoDanin/dotfiles/commit/9bb2a9fce187234bc61da464619ab0cb22555fb6).
+
+Get apikey and apisecret in (www.last.fm/api/account/create)https://www.last.fm/api/account/create].
 
 ## CLI Options
 
