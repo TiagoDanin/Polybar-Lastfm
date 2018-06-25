@@ -1,0 +1,30 @@
+{
+  "name": "polybar-lastfm",
+  "version": "1.0.0",
+  "description": "A Polybar module to scrobble &amp; love music in Lastfm",
+  "main": "main.js",
+  "bin": {
+    "polybar-lastfm": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Nice test :)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoDanin/Polybar-Lastfm.git"
+  },
+  "keywords": [
+    "lastfm",
+    "polybar"
+  ],
+  "author": "TiagoDanin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TiagoDanin/Polybar-Lastfm/issues"
+  },
+  "homepage": "https://github.com/TiagoDanin/Polybar-Lastfm#readme",
+  "dependencies": {
+    "caporal": "0.10.0",
+    "flastm": "1.0.1"
+  }
+}
