@@ -1,6 +1,6 @@
 # Polybar-Lastfm
 
-A Polybar module to scrobble &amp;amp; love music in Lastfm
+A Polybar module to scrobble & love music in Lastfm
 
 ## Installation
 
