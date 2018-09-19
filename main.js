@@ -37,9 +37,10 @@ prog
 						)
 						logger.info(`${artist} - ${name} Scrobbling now and Loved`)
 					} else {
-						lastfm.track.updateNowPlaying(
+						lastfm.track.scrobble(
 							artist,
 							name,
+							new Date().getTime()/1000,
 							sk
 						)
 						logger.info(`${artist} - ${name} Scrobbling now`)
