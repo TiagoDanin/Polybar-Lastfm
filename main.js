@@ -46,6 +46,7 @@ prog
 						logger.info(`${artist} - ${name} Scrobbling now`)
 					}
 				})
+				.catch(() => logger.info(`${artist} - ${name} (Lastfm Offline)`))
 			} else {
 				logger.info(`${artist} - ${name}`)
 			}
