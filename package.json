@@ -28,7 +28,7 @@
   "dependencies": {
     "caporal": "0.10.0",
     "flastm": "1.0.1",
-    "snyk": "1.103.2"
+    "snyk": "1.104.1"
   },
   "snyk": true
 }
