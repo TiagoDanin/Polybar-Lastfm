@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Nice test :)\"",
     "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "prepare": "npm run snyk-protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -28,7 +29,7 @@
   "dependencies": {
     "caporal": "1.1.0",
     "flastm": "1.0.1",
-    "snyk": "1.124.1"
+    "snyk": "^1.161.1"
   },
   "snyk": true
 }
