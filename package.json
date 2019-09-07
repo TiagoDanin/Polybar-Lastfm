@@ -7,9 +7,7 @@
     "polybar-lastfm": "main.js"
   },
   "scripts": {
-    "test": "echo \"Nice test :)\"",
-    "snyk-protect": "snyk protect",
-    "prepare": "npm run snyk-protect"
+    "test": "echo \"Nice test :)\""
   },
   "repository": {
     "type": "git",
@@ -27,8 +25,7 @@
   "homepage": "https://github.com/TiagoDanin/Polybar-Lastfm#readme",
   "dependencies": {
     "caporal": "0.10.0",
-    "flastm": "1.0.1",
-    "snyk": "1.99.1"
+    "flastm": "1.0.1"
   },
   "snyk": true
 }
