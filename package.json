@@ -29,7 +29,7 @@
   "dependencies": {
     "caporal": "1.2.0",
     "flastm": "1.0.1",
-    "snyk": "^1.161.1"
+    "snyk": "^1.226.0"
   },
   "snyk": true
 }
